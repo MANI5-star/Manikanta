@@ -113,7 +113,7 @@ and soft skills motivate me every day.
 ---
 
 ### 🌐 Personal Portfolio Website
-<a href="https://github.com/MANI-5star">
+<a href="https://github.com/MANI5-star">
   <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

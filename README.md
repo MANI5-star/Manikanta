@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/manikanta-gangu-2b6795347" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MANI-5star" target="_blank">
+  <a href="https://github.com/MANI5-star" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:manikantgangu5@gmail.com">
@@ -100,7 +100,7 @@ and soft skills motivate me every day.
 <div align="center">
 
 ### 🏗️ AI 2D to 3D Floor Planner
-<a href="https://github.com/MANI-5star">
+<a href="https://github.com/MANI5-star">
   <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -126,7 +126,7 @@ and soft skills motivate me every day.
 ---
 
 ### ✅ Smart Task Management App
-<a href="https://github.com/MANI-5star">
+<a href="https://github.com/MANI5-star">
   <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -143,16 +143,16 @@ and soft skills motivate me every day.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANI-5star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANI-5star&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MANI5-star&cache_seconds=1800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANI5-star&cache_seconds=1800&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANI-5star&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=MANI5-star&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MANI-5star&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MANI5-star&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" width="100%"/>
 </div>
 
 ---
@@ -194,7 +194,7 @@ and soft skills motivate me every day.
 <a href="mailto:manikantgangu5@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/MANI-5star" target="_blank">
+<a href="https://github.com/MANI5-star" target="_blank">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -210,5 +210,5 @@ and soft skills motivate me every day.
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MANI-5star&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=MANI5-star&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
